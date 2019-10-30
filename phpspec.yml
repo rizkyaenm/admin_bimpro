@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Bimaproteksi
+        psr4_prefix: Bimaproteksi
+        src_path: app
