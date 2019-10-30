@@ -1,5 +1,10 @@
 # admin_bimpro
 
+Sistem yang dibangun hanya mengimplementasikan fungsi-fungsi admin terkait
+pengelolaan data karyawan, Usaha Kecil Menengah (UKM), tugas karyawan dan
+poin penilaian kinerja. Sistem yang akan dibangun berbasis website menggunakan framework
+Laravel 5.1.
+
 Before using this you must install :
 
         "php": ">=5.5.9",
